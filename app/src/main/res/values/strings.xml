@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="museum_sprengel_title">Sprengel Museum</string>
+    <string name="museum_sprengel_address">"Kurt-Schwitters-Platz, 30169 Hannover"</string>
+    <string name="museum_sprengel_phone">0511 16843875</string>
+    <string name="museum_sprengel_description">The Sprengel Museum is an excellent modern art museum.</string>
+
+    <string name="museum_tower_title">Tower Museum</string>
+    <string name="museum_tower_address">30159 Hannover</string>
+    <string name="museum_tower_phone">0511 16843945</string>
+    <string name="museum_tower_description">The Beginenturm (formerly Beguinenturm) is a protected monument on the Hohe Ufer in Hanover. The tower was mentioned for the first time as "De nye Torn" in 1357 and was part of the city fortifications. It was originally built in the Beguin\'s Garden. It\'s just cool to look at.</string>
+
+    <string name="museum_kestner_title">August Kestner Museum</string>
+    <string name="museum_kestener_address">Trammplatz 3, 30159 Hannover</string>
+    <string name="museum_kestner_phone">0511 16842730</string>
+    <string name="museum_kestner_description">Museum August Kestner, previously Kestner-Museum, is an art museum. Museum August Kestner is centered on the collections of August Kestner and his nephew Hermann Kestner.</string>
+
+    <string name="museum_buchdruck_title">Printer\'s Museum</string>
+    <string name="museum_buchdruck_address">Limmerstr. 43, 30451 Hannover</string>
+    <string name="museum_buchdruck_phone">511 2208253</string>
+    <string name="museum_buchdruck">The Buchdruck-Museum was founded in 2002 by writers, printers, bookbinders and other professional colleaguesto preserve and pass on the almost lost specialist knowledge of the art of book-printing. This small but well stocked museum tucked away in Hannover is worth a visit.</string>
+
+    <string name="outdoor_eilenriede_title">Eilendriede</string>
+    <string name="outdoor_eilenriede_address">Hohenzollernstr. 28, 30161 Hannover</string>
+    <string name="outdoor_eilenriede_phone">No phone number</string>
+    <string name="outdoor_eilenriede_description">The Eilenriede is a 640-hectare (1,600-acre) inner-city park located within Hannover.  Endless hiking and biking trails are ready for you to explore.</string>
+
+    <string name="outdoor_stadtpark_title">Stadtpark</string>
+    <string name="outdoor_stadtpark_address">Theodor-Heuss-Platz 1, 30175 Hannover</string>
+    <string name="outdoor_statdpark_phone">0511 1680</string>
+    <string name="outdoor_stadtpark_description">The Stadtpark Hannover (Stadthallengarten) in Hanover is located south of the Hannover Congress Center in the Zoo district. t is a beautiful spot to enjoy a walk or a breath of fresh air.</string>
+
+    <string name="outdoor_maschpark_title">Maschpark</string>
+    <string name="outdoor_maschpark_address">30159 Hannover</string>
+    <string name="outdoor_maschpark_phone">0511 16843801</string>
+    <string name="outdoor_maschpark_description">The Maschpark in the center of Hanover is a 10-hectare park south of the old town. It was built around 1900 and was the first municipal park in Hanover. A great spot for a picnic, you can enjoy open-air opera in the late summer.</string>
+
+    <string name="outdoor_herrenhausergarden_title">Herrenhauser Gardens</string>
+    <string name="outdoor_herrenhausergarden_address">Herrenhauserstr. 4, 30419 Hannover</string>
+    <string name="outdoor_herrenhausergarden_phone">511 16834000</string>
+    <string name="outdoor_herrenhausergarden_description">These well-kept gardens are a treasure in Hannover. You can get lost for hours walking around the well-manicured greenery. </string>
+
+    <string name="historical_aegidien_title">St. Aegidien Church</string>
+    <string name="historical_aegidian_address">Aegidienkirchhof 1, 30159 Hannover"</string>
+    <string name="historical_aegidian_phone">511 324513</string>
+    <string name="historical_aegidien_description">The ruins of this Church, originally built in the 14th century, lie as a monument to the destruction of war. It was destroyed during the bombing of Hannover in the Second World War. Now it is a place for quiet contemplation.</string>
+
+    <string name="historical_leibniz_title">Leibniz House</string>
+    <string name="historical_leibniz_address">Holzmarkt 4, 30159 Hannover</string>
+    <string name="historical_leibniz_phone">511 7624450</string>
+    <string name="historical_leibniz_description">This is the house in which the great mathematician, philospher, and diplomat Gottfried Wilhelm von Leibniz was supposedly boarn.</string>
+
+    <string name="historical_marienburg_title">Marienburg Castle</string>
+    <string name="historical_marienburg_address">Marienberg 1, 30982 Pattensen</string>
+    <string name="historical_marienburg_phone">5069 348000</string>
+    <string name="historical_marienburg_description">This is a very cool castle on the outskirts of Hannover in Pattenson. It was built between 1858 - 1869 by King George V to be used as a summer residence. It is worth taking a look.</string>
+
+    <string name="historical_kirche_title">St. John\'s Church</string>
+    <string name="historical_kirche_address">Rote Reihe 8, 30169 Hannover</string>
+    <string name="historical_kirche_phone">511 97139</string>
+    <string name="historical_kirche_description">This is St. John\'s Church. It is a perfect example of Protestant church. The mathematician and philosopher Gottfried Wilhelm von Leibniz is buried in this church.</string>
+
+    <string name="restaurant_goldfisch_title">The Goldfisch</string>
+    <string name="restaurant_goldfisch_address">Sallstrasse 48, 30171 Hannover</string>
+    <string name="restaurant_goldfisch_phone">511 6076919</string>
+    <string name="restaurant_goldfisch_description">This delightful restaurant in the south of Hannover serves excellent burgers and cocktails. Sunday is all-you-can-eat ribs!</string>
+
+    <string name="restaurant_shalimar_title">Shalimar</string>
+    <string name="restaurant_shalimar_address">Lange Laube 13, 30159 Hannover</string>
+    <string name="restaurant_shalimar_phone">511 14848</string>
+    <string name="restaurant_shalimar_description">Craving Indian cuisine? Then try this excellent restaurant in the vicinity of Hannover\'s main train station. The food is tasty and the ambience is cozy and unpretentious. The service is excellent as well.</string>
+
+    <string name="restaurant_hofbrau_title">Hofbrauhaus Hannover</string>
+    <string name="restaurant_hofbrau_address">Mainzerstr. 6, 30173 Hannover</string>
+    <string name="restaurant_hofbrau_phone">511 98438688</string>
+    <string name="restaurant_hofbrau_description">This authentic Bavarian restaurant is something to experience. Great beer, delicious Bavarian sausages, and crispy pork shanks await you. Come by for October fest for an experience you won\'t forget.</string>
+
+    <string name="restaurant_losteria_title">L\'Osteria</string>
+    <string name="restaurant_losteria_address">Lavesstrasse 1-2, 30159 Hannover</string>
+    <string name="restaurant_losteria_phone">511 848 77138</string>
+    <string name="restaurant_losteria_description">This Italian restaurant in Hannover is a must see. The homemade pizzas are fantastic (and gigantic!). The menu boasts popular italian dishes. Definitely worth a visit.</string>
+
+    <string name="historical_tab">Historical Sites</string>
+    <string name="restaurant_tab">Restaurants</string>
+    <string name="outdoor_tab">Outdoor Activities</string>
+    <string name="museum_tab">Museums</string>
+</resources>
